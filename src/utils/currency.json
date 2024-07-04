@@ -1,0 +1,149 @@
+[
+    {
+     "ISO_CUR_CODE": 760,
+     "CUR_CODE": "SYP",
+     "CUR_NAME_ARABIC": "ليرة سورية",
+     "CUR_NAME_ENGLISH": "Syrian Pound",
+     "NAT_CUR_CODE": "ليرة"
+    },
+    {
+     "ISO_CUR_CODE": 840,
+     "CUR_CODE": "USD",
+     "CUR_NAME_ARABIC": "دولار اميركي",
+     "CUR_NAME_ENGLISH": "US Dollar",
+     "NAT_CUR_CODE": "دولار"
+    },
+    {
+     "ISO_CUR_CODE": 978,
+     "CUR_CODE": "EUR",
+     "CUR_NAME_ARABIC": "يورو",
+     "CUR_NAME_ENGLISH": "EURO",
+     "NAT_CUR_CODE": "يورو"
+    },
+    {
+     "ISO_CUR_CODE": 826,
+     "CUR_CODE": "GBP",
+     "CUR_NAME_ARABIC": "جنيه إسترليني",
+     "CUR_NAME_ENGLISH": "Sterling Pound ",
+     "NAT_CUR_CODE": "جنيه"
+    },
+    {
+     "ISO_CUR_CODE": 392,
+     "CUR_CODE": "JPY",
+     "CUR_NAME_ARABIC": "ين ياباني",
+     "CUR_NAME_ENGLISH": "Japanese Yen",
+     "NAT_CUR_CODE": "ين"
+    },
+    {
+     "ISO_CUR_CODE": 756,
+     "CUR_CODE": "CHF",
+     "CUR_NAME_ARABIC": "فرنك سويسري",
+     "CUR_NAME_ENGLISH": "Swiss Franc",
+     "NAT_CUR_CODE": "فرنك"
+    },
+    {
+     "ISO_CUR_CODE": 124,
+     "CUR_CODE": "CAD",
+     "CUR_NAME_ARABIC": "دولار كندي",
+     "CUR_NAME_ENGLISH": "Canadian Dollar",
+     "NAT_CUR_CODE": "دولار"
+    },
+    {
+     "ISO_CUR_CODE": 208,
+     "CUR_CODE": "DKK",
+     "CUR_NAME_ARABIC": "كورون دانمركي",
+     "CUR_NAME_ENGLISH": "Danish Krona",
+     "NAT_CUR_CODE": "كورون"
+    },
+    {
+     "ISO_CUR_CODE": 752,
+     "CUR_CODE": "SEK",
+     "CUR_NAME_ARABIC": "كورون سويدي",
+     "CUR_NAME_ENGLISH": "Swedish Krone",
+     "NAT_CUR_CODE": "كورون"
+    },
+    {
+     "ISO_CUR_CODE": 578,
+     "CUR_CODE": "NOK",
+     "CUR_NAME_ARABIC": "كورون نرويجي",
+     "CUR_NAME_ENGLISH": "Norwegian Krone",
+     "NAT_CUR_CODE": "كورون"
+    },
+    {
+     "ISO_CUR_CODE": 414,
+     "CUR_CODE": "KWD",
+     "CUR_NAME_ARABIC": "دينار كويتي",
+     "CUR_NAME_ENGLISH": "Kuwaiti Dinar",
+     "NAT_CUR_CODE": "دينار"
+    },
+    {
+     "ISO_CUR_CODE": 682,
+     "CUR_CODE": "SAR",
+     "CUR_NAME_ARABIC": "ريال سعودي",
+     "CUR_NAME_ENGLISH": "Saudi Riyal",
+     "NAT_CUR_CODE": "ريال"
+    },
+    {
+     "ISO_CUR_CODE": 400,
+     "CUR_CODE": "JOD",
+     "CUR_NAME_ARABIC": "دينار أردني",
+     "CUR_NAME_ENGLISH": "Jordanian Dinar",
+     "NAT_CUR_CODE": "دينار"
+    },
+    {
+     "ISO_CUR_CODE": 48,
+     "CUR_CODE": "BHD",
+     "CUR_NAME_ARABIC": "دينار بحريني",
+     "CUR_NAME_ENGLISH": "Bahraini Dinar",
+     "NAT_CUR_CODE": "دينار"
+    },
+    {
+     "ISO_CUR_CODE": 784,
+     "CUR_CODE": "AED",
+     "CUR_NAME_ARABIC": "درهم إماراتي",
+     "CUR_NAME_ENGLISH": "UAE Dirham",
+     "NAT_CUR_CODE": "درهم"
+    },
+    {
+     "ISO_CUR_CODE": 634,
+     "CUR_CODE": "QAR",
+     "CUR_NAME_ARABIC": "ريال قطري",
+     "CUR_NAME_ENGLISH": "Qatari Riyal",
+     "NAT_CUR_CODE": "ريال"
+    },
+    {
+     "ISO_CUR_CODE": 512,
+     "CUR_CODE": "OMR",
+     "CUR_NAME_ARABIC": "ريال عماني",
+     "CUR_NAME_ENGLISH": "Omani Riyal",
+     "NAT_CUR_CODE": "ريال"
+    },
+    {
+     "ISO_CUR_CODE": 818,
+     "CUR_CODE": "EGP",
+     "CUR_NAME_ARABIC": "جنيه مصري",
+     "CUR_NAME_ENGLISH": "Egyptian Pound",
+     "NAT_CUR_CODE": "جنيه"
+    },
+    {
+     "ISO_CUR_CODE": 36,
+     "CUR_CODE": "AUD",
+     "CUR_NAME_ARABIC": "دولار استرالي",
+     "CUR_NAME_ENGLISH": "Australian Dollar",
+     "NAT_CUR_CODE": "دولار"
+    },
+    {
+     "ISO_CUR_CODE": 156,
+     "CUR_CODE": "CNY",
+     "CUR_NAME_ARABIC": "اليوان الصيني",
+     "CUR_NAME_ENGLISH": "Chinese Yuan",
+     "NAT_CUR_CODE": "يوان"
+    },
+    {
+     "ISO_CUR_CODE": 643,
+     "CUR_CODE": "RUB",
+     "CUR_NAME_ARABIC": "الروبل الروسي",
+     "CUR_NAME_ENGLISH": "Russian Ruble",
+     "NAT_CUR_CODE": "روبل"
+    }
+   ]

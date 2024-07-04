@@ -1,0 +1,1738 @@
+[
+    {
+     "Code": 4,
+     "Country_Name_Arabic": "افغانستان",
+     "Country_Name_English": "AFGHANISTAN",
+     "Code_2_Digit": "AF",
+     "Code_3_Digit": "AFG"
+    },
+    {
+     "Code": 8,
+     "Country_Name_Arabic": "ألبانيا",
+     "Country_Name_English": "ALBANIA",
+     "Code_2_Digit": "AL",
+     "Code_3_Digit": "ALB"
+    },
+    {
+     "Code": 10,
+     "Country_Name_Arabic": "أنتاركيتا",
+     "Country_Name_English": "ANTARCTICA",
+     "Code_2_Digit": "AQ",
+     "Code_3_Digit": "ATA"
+    },
+    {
+     "Code": 12,
+     "Country_Name_Arabic": "الجزائر",
+     "Country_Name_English": "ALGERIA",
+     "Code_2_Digit": "DZ",
+     "Code_3_Digit": "DZA"
+    },
+    {
+     "Code": 16,
+     "Country_Name_Arabic": "جزر السمواء الأمريكية",
+     "Country_Name_English": "AMERICAN SAMOA",
+     "Code_2_Digit": "AS",
+     "Code_3_Digit": "ASM"
+    },
+    {
+     "Code": 20,
+     "Country_Name_Arabic": "أندورا",
+     "Country_Name_English": "ANDORRA",
+     "Code_2_Digit": "AD",
+     "Code_3_Digit": "AND"
+    },
+    {
+     "Code": 24,
+     "Country_Name_Arabic": "انجولا",
+     "Country_Name_English": "ANGOLA",
+     "Code_2_Digit": "AO",
+     "Code_3_Digit": "AGO"
+    },
+    {
+     "Code": 28,
+     "Country_Name_Arabic": "انتيجوا و بربودا",
+     "Country_Name_English": "ANTIGUA AND BARBUDA",
+     "Code_2_Digit": "AG",
+     "Code_3_Digit": "ATG"
+    },
+    {
+     "Code": 31,
+     "Country_Name_Arabic": "أذربيجان",
+     "Country_Name_English": "AZERBAIJAN",
+     "Code_2_Digit": "AZ",
+     "Code_3_Digit": "AZE"
+    },
+    {
+     "Code": 32,
+     "Country_Name_Arabic": " الأرجنتين",
+     "Country_Name_English": "ARGENTINA",
+     "Code_2_Digit": "AR",
+     "Code_3_Digit": "ARG"
+    },
+    {
+     "Code": 36,
+     "Country_Name_Arabic": "استراليا",
+     "Country_Name_English": "AUSTRALIA",
+     "Code_2_Digit": "AU",
+     "Code_3_Digit": "AUS"
+    },
+    {
+     "Code": 40,
+     "Country_Name_Arabic": "النمسا",
+     "Country_Name_English": "AUSTRIA",
+     "Code_2_Digit": "AT",
+     "Code_3_Digit": "AUT"
+    },
+    {
+     "Code": 44,
+     "Country_Name_Arabic": "البهاما",
+     "Country_Name_English": "BAHAMAS (THE)",
+     "Code_2_Digit": "BS",
+     "Code_3_Digit": "BHS"
+    },
+    {
+     "Code": 48,
+     "Country_Name_Arabic": "البحرين",
+     "Country_Name_English": "BAHRAIN",
+     "Code_2_Digit": "BH",
+     "Code_3_Digit": "BHR"
+    },
+    {
+     "Code": 50,
+     "Country_Name_Arabic": "بنجلاديش",
+     "Country_Name_English": "BANGLADESH",
+     "Code_2_Digit": "BD",
+     "Code_3_Digit": "BGD"
+    },
+    {
+     "Code": 51,
+     "Country_Name_Arabic": "أرمينيا",
+     "Country_Name_English": "ARMENIA",
+     "Code_2_Digit": "AM",
+     "Code_3_Digit": "ARM"
+    },
+    {
+     "Code": 52,
+     "Country_Name_Arabic": "بربادوس",
+     "Country_Name_English": "BARBADOS",
+     "Code_2_Digit": "BB",
+     "Code_3_Digit": "BRB"
+    },
+    {
+     "Code": 56,
+     "Country_Name_Arabic": "بلجيكا",
+     "Country_Name_English": "BELGIUM",
+     "Code_2_Digit": "BE",
+     "Code_3_Digit": "BEL"
+    },
+    {
+     "Code": 60,
+     "Country_Name_Arabic": "برمودا",
+     "Country_Name_English": "BERMUDA",
+     "Code_2_Digit": "BM",
+     "Code_3_Digit": "BMU"
+    },
+    {
+     "Code": 64,
+     "Country_Name_Arabic": "بوتان",
+     "Country_Name_English": "BHUTAN",
+     "Code_2_Digit": "BT",
+     "Code_3_Digit": "BTN"
+    },
+    {
+     "Code": 68,
+     "Country_Name_Arabic": "بوليفيا",
+     "Country_Name_English": "BOLIVIA (PLURINATIONAL STATE OF)",
+     "Code_2_Digit": "BO",
+     "Code_3_Digit": "BOL"
+    },
+    {
+     "Code": 70,
+     "Country_Name_Arabic": "البوسنة والهرسك",
+     "Country_Name_English": "BOSNIA AND HERZEGOVINA",
+     "Code_2_Digit": "BA",
+     "Code_3_Digit": "BIH"
+    },
+    {
+     "Code": 72,
+     "Country_Name_Arabic": "بوتسوانا",
+     "Country_Name_English": "BOTSWANA",
+     "Code_2_Digit": "BW",
+     "Code_3_Digit": "BWA"
+    },
+    {
+     "Code": 74,
+     "Country_Name_Arabic": "جزيرة بوفيت",
+     "Country_Name_English": "BOUVET ISLAND",
+     "Code_2_Digit": "BV",
+     "Code_3_Digit": "BVT"
+    },
+    {
+     "Code": 76,
+     "Country_Name_Arabic": "البرازيل",
+     "Country_Name_English": "BRAZIL",
+     "Code_2_Digit": "BR",
+     "Code_3_Digit": "BRA"
+    },
+    {
+     "Code": 84,
+     "Country_Name_Arabic": "بليز",
+     "Country_Name_English": "BELIZE",
+     "Code_2_Digit": "BZ",
+     "Code_3_Digit": "BLZ"
+    },
+    {
+     "Code": 86,
+     "Country_Name_Arabic": "جزر المحيط الهندي (البريطانية)",
+     "Country_Name_English": "BRITISH INDIAN OCEAN TERRITORY (THE)",
+     "Code_2_Digit": "IO",
+     "Code_3_Digit": "IOT"
+    },
+    {
+     "Code": 90,
+     "Country_Name_Arabic": "جزر السلمون",
+     "Country_Name_English": "SOLOMON ISLANDS",
+     "Code_2_Digit": "SB",
+     "Code_3_Digit": "SLB"
+    },
+    {
+     "Code": 92,
+     "Country_Name_Arabic": "جزر فرجينيا",
+     "Country_Name_English": "VIRGIN ISLANDS (BRITISH)",
+     "Code_2_Digit": "VG",
+     "Code_3_Digit": "VGB"
+    },
+    {
+     "Code": 96,
+     "Country_Name_Arabic": "دار السلام",
+     "Country_Name_English": "BRUNEI DARUSSALAM",
+     "Code_2_Digit": "BN",
+     "Code_3_Digit": "BRN"
+    },
+    {
+     "Code": 100,
+     "Country_Name_Arabic": "بلغاريا",
+     "Country_Name_English": "BULGARIA",
+     "Code_2_Digit": "BG",
+     "Code_3_Digit": "BGR"
+    },
+    {
+     "Code": 104,
+     "Country_Name_Arabic": "ميانمار",
+     "Country_Name_English": "MYANMAR",
+     "Code_2_Digit": "MM",
+     "Code_3_Digit": "MMR"
+    },
+    {
+     "Code": 108,
+     "Country_Name_Arabic": "بورندي",
+     "Country_Name_English": "BURUNDI",
+     "Code_2_Digit": "BI",
+     "Code_3_Digit": "BDI"
+    },
+    {
+     "Code": 112,
+     "Country_Name_Arabic": "بيلاروسيا",
+     "Country_Name_English": "BELARUS",
+     "Code_2_Digit": "BY",
+     "Code_3_Digit": "BLR"
+    },
+    {
+     "Code": 116,
+     "Country_Name_Arabic": "كمبوديا الديمقراطية",
+     "Country_Name_English": "CAMBODIA",
+     "Code_2_Digit": "KH",
+     "Code_3_Digit": "KHM"
+    },
+    {
+     "Code": 120,
+     "Country_Name_Arabic": "الكمرون",
+     "Country_Name_English": "CAMEROON",
+     "Code_2_Digit": "CM",
+     "Code_3_Digit": "CMR"
+    },
+    {
+     "Code": 124,
+     "Country_Name_Arabic": "كندا",
+     "Country_Name_English": "CANADA",
+     "Code_2_Digit": "CA",
+     "Code_3_Digit": "CAN"
+    },
+    {
+     "Code": 132,
+     "Country_Name_Arabic": "الرأس الأخضر",
+     "Country_Name_English": "CABO VERDE",
+     "Code_2_Digit": "CV",
+     "Code_3_Digit": "CPV"
+    },
+    {
+     "Code": 136,
+     "Country_Name_Arabic": "جزر كايمان",
+     "Country_Name_English": "CAYMAN ISLANDS (THE)",
+     "Code_2_Digit": "KY",
+     "Code_3_Digit": "CYM"
+    },
+    {
+     "Code": 140,
+     "Country_Name_Arabic": "جمهورية افريقيا الوسطى",
+     "Country_Name_English": "CENTRAL AFRICAN REPUBLIC (THE)",
+     "Code_2_Digit": "CF",
+     "Code_3_Digit": "CAF"
+    },
+    {
+     "Code": 144,
+     "Country_Name_Arabic": "سيريلانكا",
+     "Country_Name_English": "SRI LANKA",
+     "Code_2_Digit": "LK",
+     "Code_3_Digit": "LKA"
+    },
+    {
+     "Code": 148,
+     "Country_Name_Arabic": "تشاد",
+     "Country_Name_English": "CHAD",
+     "Code_2_Digit": "TD",
+     "Code_3_Digit": "TCD"
+    },
+    {
+     "Code": 152,
+     "Country_Name_Arabic": "تشيلي",
+     "Country_Name_English": "CHILE",
+     "Code_2_Digit": "CL",
+     "Code_3_Digit": "CHL"
+    },
+    {
+     "Code": 156,
+     "Country_Name_Arabic": "الصين",
+     "Country_Name_English": "CHINA",
+     "Code_2_Digit": "CN",
+     "Code_3_Digit": "CHN"
+    },
+    {
+     "Code": 158,
+     "Country_Name_Arabic": "تايوان",
+     "Country_Name_English": "TAIWAN (PROVINCE OF CHINA)",
+     "Code_2_Digit": "TW",
+     "Code_3_Digit": "TWN"
+    },
+    {
+     "Code": 162,
+     "Country_Name_Arabic": "جزر كريسماس",
+     "Country_Name_English": "CHRISTMAS ISLAND",
+     "Code_2_Digit": "CX",
+     "Code_3_Digit": "CXR"
+    },
+    {
+     "Code": 166,
+     "Country_Name_Arabic": "جزر كوكوس",
+     "Country_Name_English": "COCOS (KEELING) ISLANDS (THE)",
+     "Code_2_Digit": "CC",
+     "Code_3_Digit": "CCK"
+    },
+    {
+     "Code": 170,
+     "Country_Name_Arabic": "كولومبيا",
+     "Country_Name_English": "COLOMBIA",
+     "Code_2_Digit": "CO",
+     "Code_3_Digit": "COL"
+    },
+    {
+     "Code": 174,
+     "Country_Name_Arabic": "كومورس",
+     "Country_Name_English": "COMOROS (THE)",
+     "Code_2_Digit": "KM",
+     "Code_3_Digit": "COM"
+    },
+    {
+     "Code": 175,
+     "Country_Name_Arabic": "مايوت",
+     "Country_Name_English": "MAYOTTE",
+     "Code_2_Digit": "YT",
+     "Code_3_Digit": "MYT"
+    },
+    {
+     "Code": 178,
+     "Country_Name_Arabic": "الكونغو",
+     "Country_Name_English": "CONGO (THE)",
+     "Code_2_Digit": "CG",
+     "Code_3_Digit": "COG"
+    },
+    {
+     "Code": 180,
+     "Country_Name_Arabic": "الكونغو الديمقراطية",
+     "Country_Name_English": "CONGO (THE DEMOCRATIC REPUBLIC OF THE)",
+     "Code_2_Digit": "CD",
+     "Code_3_Digit": "COD"
+    },
+    {
+     "Code": 184,
+     "Country_Name_Arabic": "جزر كوك",
+     "Country_Name_English": "COOK ISLANDS (THE)",
+     "Code_2_Digit": "CK",
+     "Code_3_Digit": "COK"
+    },
+    {
+     "Code": 188,
+     "Country_Name_Arabic": "كوستاريكا",
+     "Country_Name_English": "COSTA RICA",
+     "Code_2_Digit": "CR",
+     "Code_3_Digit": "CRI"
+    },
+    {
+     "Code": 191,
+     "Country_Name_Arabic": "كرواتيا",
+     "Country_Name_English": "CROATIA",
+     "Code_2_Digit": "HR",
+     "Code_3_Digit": "HRV"
+    },
+    {
+     "Code": 192,
+     "Country_Name_Arabic": "كوبا",
+     "Country_Name_English": "CUBA",
+     "Code_2_Digit": "CU",
+     "Code_3_Digit": "CUB"
+    },
+    {
+     "Code": 196,
+     "Country_Name_Arabic": "قبرص",
+     "Country_Name_English": "CYPRUS",
+     "Code_2_Digit": "CY",
+     "Code_3_Digit": "CYP"
+    },
+    {
+     "Code": 203,
+     "Country_Name_Arabic": "الجمهورية التشيكية",
+     "Country_Name_English": "CZECHIA",
+     "Code_2_Digit": "CZ",
+     "Code_3_Digit": "CZE"
+    },
+    {
+     "Code": 204,
+     "Country_Name_Arabic": "بنين",
+     "Country_Name_English": "BENIN",
+     "Code_2_Digit": "BJ",
+     "Code_3_Digit": "BEN"
+    },
+    {
+     "Code": 208,
+     "Country_Name_Arabic": "الدنمارك",
+     "Country_Name_English": "DENMARK",
+     "Code_2_Digit": "DK",
+     "Code_3_Digit": "DNK"
+    },
+    {
+     "Code": 212,
+     "Country_Name_Arabic": "الدومينيكان",
+     "Country_Name_English": "DOMINICA",
+     "Code_2_Digit": "DM",
+     "Code_3_Digit": "DMA"
+    },
+    {
+     "Code": 214,
+     "Country_Name_Arabic": "جمهورية الدومينيكان",
+     "Country_Name_English": "DOMINICAN REPUBLIC (THE)",
+     "Code_2_Digit": "DO",
+     "Code_3_Digit": "DOM"
+    },
+    {
+     "Code": 218,
+     "Country_Name_Arabic": "اكوادور",
+     "Country_Name_English": "ECUADOR",
+     "Code_2_Digit": "EC",
+     "Code_3_Digit": "ECU"
+    },
+    {
+     "Code": 222,
+     "Country_Name_Arabic": "السلفادور",
+     "Country_Name_English": "EL SALVADOR",
+     "Code_2_Digit": "SV",
+     "Code_3_Digit": "SLV"
+    },
+    {
+     "Code": 226,
+     "Country_Name_Arabic": "غينيا الوسطى",
+     "Country_Name_English": "EQUATORIAL GUINEA",
+     "Code_2_Digit": "GQ",
+     "Code_3_Digit": "GNQ"
+    },
+    {
+     "Code": 231,
+     "Country_Name_Arabic": "اثيوبيا",
+     "Country_Name_English": "ETHIOPIA",
+     "Code_2_Digit": "ET",
+     "Code_3_Digit": "ETH"
+    },
+    {
+     "Code": 232,
+     "Country_Name_Arabic": "أريتيريا",
+     "Country_Name_English": "ERITREA",
+     "Code_2_Digit": "ER",
+     "Code_3_Digit": "ERI"
+    },
+    {
+     "Code": 233,
+     "Country_Name_Arabic": "إستونيا",
+     "Country_Name_English": "ESTONIA",
+     "Code_2_Digit": "EE",
+     "Code_3_Digit": "EST"
+    },
+    {
+     "Code": 234,
+     "Country_Name_Arabic": "جزر الفارو",
+     "Country_Name_English": "FAROE ISLANDS (THE)",
+     "Code_2_Digit": "FO",
+     "Code_3_Digit": "FRO"
+    },
+    {
+     "Code": 238,
+     "Country_Name_Arabic": "جزر الفوكلاند",
+     "Country_Name_English": "FALKLAND ISLANDS (THE) [MALVINAS]",
+     "Code_2_Digit": "FK",
+     "Code_3_Digit": "FLK"
+    },
+    {
+     "Code": 239,
+     "Country_Name_Arabic": "جورجيا الجنوبية وجزر ساندويتش الجنوبية",
+     "Country_Name_English": "SOUTH GEORGIA AND THE SOUTH SANDWICH ISLANDS",
+     "Code_2_Digit": "GS",
+     "Code_3_Digit": "SGS"
+    },
+    {
+     "Code": 242,
+     "Country_Name_Arabic": "جزر الفيجي",
+     "Country_Name_English": "FIJI",
+     "Code_2_Digit": "FJ",
+     "Code_3_Digit": "FJI"
+    },
+    {
+     "Code": 246,
+     "Country_Name_Arabic": "فنلندا",
+     "Country_Name_English": "FINLAND",
+     "Code_2_Digit": "FI",
+     "Code_3_Digit": "FIN"
+    },
+    {
+     "Code": 248,
+     "Country_Name_Arabic": "جزر آلاند",
+     "Country_Name_English": "ÅLAND ISLANDS",
+     "Code_2_Digit": "AX",
+     "Code_3_Digit": "ALA"
+    },
+    {
+     "Code": 250,
+     "Country_Name_Arabic": "فرنسا",
+     "Country_Name_English": "FRANCE",
+     "Code_2_Digit": "FR",
+     "Code_3_Digit": "FRA"
+    },
+    {
+     "Code": 254,
+     "Country_Name_Arabic": "غيانا الفرنسية",
+     "Country_Name_English": "FRENCH GUIANA",
+     "Code_2_Digit": "GF",
+     "Code_3_Digit": "GUF"
+    },
+    {
+     "Code": 258,
+     "Country_Name_Arabic": "بولينيا الفرنسية",
+     "Country_Name_English": "FRENCH POLYNESIA",
+     "Code_2_Digit": "PF",
+     "Code_3_Digit": "PYF"
+    },
+    {
+     "Code": 260,
+     "Country_Name_Arabic": "المقاطعات الفرنسية الجنوبية",
+     "Country_Name_English": "FRENCH SOUTHERN TERRITORIES (THE)",
+     "Code_2_Digit": "TF",
+     "Code_3_Digit": "ATF"
+    },
+    {
+     "Code": 262,
+     "Country_Name_Arabic": "جيبوتي",
+     "Country_Name_English": "DJIBOUTI",
+     "Code_2_Digit": "DJ",
+     "Code_3_Digit": "DJI"
+    },
+    {
+     "Code": 266,
+     "Country_Name_Arabic": "الجابون",
+     "Country_Name_English": "GABON",
+     "Code_2_Digit": "GA",
+     "Code_3_Digit": "GAB"
+    },
+    {
+     "Code": 268,
+     "Country_Name_Arabic": "جورجيا",
+     "Country_Name_English": "GEORGIA",
+     "Code_2_Digit": "GE",
+     "Code_3_Digit": "GEO"
+    },
+    {
+     "Code": 270,
+     "Country_Name_Arabic": "جامبيا",
+     "Country_Name_English": "GAMBIA (THE)",
+     "Code_2_Digit": "GM",
+     "Code_3_Digit": "GMB"
+    },
+    {
+     "Code": 275,
+     "Country_Name_Arabic": "فلسطين",
+     "Country_Name_English": "PALESTINE, STATE OF",
+     "Code_2_Digit": "PS",
+     "Code_3_Digit": "PSE"
+    },
+    {
+     "Code": 276,
+     "Country_Name_Arabic": "ألمانيا",
+     "Country_Name_English": "GERMANY",
+     "Code_2_Digit": "DE",
+     "Code_3_Digit": "DEU"
+    },
+    {
+     "Code": 288,
+     "Country_Name_Arabic": "غانا",
+     "Country_Name_English": "GHANA",
+     "Code_2_Digit": "GH",
+     "Code_3_Digit": "GHA"
+    },
+    {
+     "Code": 292,
+     "Country_Name_Arabic": "جبل طارق",
+     "Country_Name_English": "GIBRALTAR",
+     "Code_2_Digit": "GI",
+     "Code_3_Digit": "GIB"
+    },
+    {
+     "Code": 296,
+     "Country_Name_Arabic": "كاريباتي",
+     "Country_Name_English": "KIRIBATI",
+     "Code_2_Digit": "KI",
+     "Code_3_Digit": "KIR"
+    },
+    {
+     "Code": 300,
+     "Country_Name_Arabic": "اليونان",
+     "Country_Name_English": "GREECE",
+     "Code_2_Digit": "GR",
+     "Code_3_Digit": "GRC"
+    },
+    {
+     "Code": 304,
+     "Country_Name_Arabic": "جرينلاند",
+     "Country_Name_English": "GREENLAND",
+     "Code_2_Digit": "GL",
+     "Code_3_Digit": "GRL"
+    },
+    {
+     "Code": 308,
+     "Country_Name_Arabic": "غرينادا",
+     "Country_Name_English": "GRENADA",
+     "Code_2_Digit": "GD",
+     "Code_3_Digit": "GRD"
+    },
+    {
+     "Code": 312,
+     "Country_Name_Arabic": "جوادلوب",
+     "Country_Name_English": "GUADELOUPE",
+     "Code_2_Digit": "GP",
+     "Code_3_Digit": "GLP"
+    },
+    {
+     "Code": 316,
+     "Country_Name_Arabic": "غوام",
+     "Country_Name_English": "GUAM",
+     "Code_2_Digit": "GU",
+     "Code_3_Digit": "GUM"
+    },
+    {
+     "Code": 320,
+     "Country_Name_Arabic": "جواتيمالا",
+     "Country_Name_English": "GUATEMALA",
+     "Code_2_Digit": "GT",
+     "Code_3_Digit": "GTM"
+    },
+    {
+     "Code": 324,
+     "Country_Name_Arabic": "غينيا",
+     "Country_Name_English": "GUINEA",
+     "Code_2_Digit": "GN",
+     "Code_3_Digit": "GIN"
+    },
+    {
+     "Code": 328,
+     "Country_Name_Arabic": "غيانا",
+     "Country_Name_English": "GUYANA",
+     "Code_2_Digit": "GY",
+     "Code_3_Digit": "GUY"
+    },
+    {
+     "Code": 332,
+     "Country_Name_Arabic": "هايتي",
+     "Country_Name_English": "HAITI",
+     "Code_2_Digit": "HT",
+     "Code_3_Digit": "HTI"
+    },
+    {
+     "Code": 334,
+     "Country_Name_Arabic": "جزر ماكدونالد",
+     "Country_Name_English": "HEARD ISLAND AND MCDONALD ISLANDS",
+     "Code_2_Digit": "HM",
+     "Code_3_Digit": "HMD"
+    },
+    {
+     "Code": 336,
+     "Country_Name_Arabic": "دولة مدينة الفاتيكان",
+     "Country_Name_English": "HOLY SEE (THE)",
+     "Code_2_Digit": "VA",
+     "Code_3_Digit": "VAT"
+    },
+    {
+     "Code": 340,
+     "Country_Name_Arabic": "هندوراس",
+     "Country_Name_English": "HONDURAS",
+     "Code_2_Digit": "HN",
+     "Code_3_Digit": "HND"
+    },
+    {
+     "Code": 344,
+     "Country_Name_Arabic": "هونغ كونغ",
+     "Country_Name_English": "HONG KONG",
+     "Code_2_Digit": "HK",
+     "Code_3_Digit": "HKG"
+    },
+    {
+     "Code": 348,
+     "Country_Name_Arabic": "هنغاريا",
+     "Country_Name_English": "HUNGARY",
+     "Code_2_Digit": "HU",
+     "Code_3_Digit": "HUN"
+    },
+    {
+     "Code": 352,
+     "Country_Name_Arabic": "ايسلندا",
+     "Country_Name_English": "ICELAND",
+     "Code_2_Digit": "IS",
+     "Code_3_Digit": "ISL"
+    },
+    {
+     "Code": 356,
+     "Country_Name_Arabic": "الهند",
+     "Country_Name_English": "INDIA",
+     "Code_2_Digit": "IN",
+     "Code_3_Digit": "IND"
+    },
+    {
+     "Code": 360,
+     "Country_Name_Arabic": "اندونيسيا",
+     "Country_Name_English": "INDONESIA",
+     "Code_2_Digit": "ID",
+     "Code_3_Digit": "IDN"
+    },
+    {
+     "Code": 364,
+     "Country_Name_Arabic": "ايران",
+     "Country_Name_English": "IRAN (ISLAMIC REPUBLIC OF)",
+     "Code_2_Digit": "IR",
+     "Code_3_Digit": "IRN"
+    },
+    {
+     "Code": 368,
+     "Country_Name_Arabic": "العراق",
+     "Country_Name_English": "IRAQ",
+     "Code_2_Digit": "IQ",
+     "Code_3_Digit": "IRQ"
+    },
+    {
+     "Code": 372,
+     "Country_Name_Arabic": "ايرلندا",
+     "Country_Name_English": "IRELAND",
+     "Code_2_Digit": "IE",
+     "Code_3_Digit": "IRL"
+    },
+    {
+     "Code": 380,
+     "Country_Name_Arabic": "ايطاليا",
+     "Country_Name_English": "ITALY",
+     "Code_2_Digit": "IT",
+     "Code_3_Digit": "ITA"
+    },
+    {
+     "Code": 384,
+     "Country_Name_Arabic": "ساحل العاج",
+     "Country_Name_English": "CÔTE D'IVOIRE",
+     "Code_2_Digit": "CI",
+     "Code_3_Digit": "CIV"
+    },
+    {
+     "Code": 388,
+     "Country_Name_Arabic": "جمايكا",
+     "Country_Name_English": "JAMAICA",
+     "Code_2_Digit": "JM",
+     "Code_3_Digit": "JAM"
+    },
+    {
+     "Code": 392,
+     "Country_Name_Arabic": "اليابان",
+     "Country_Name_English": "JAPAN",
+     "Code_2_Digit": "JP",
+     "Code_3_Digit": "JPN"
+    },
+    {
+     "Code": 398,
+     "Country_Name_Arabic": "كازاخستان",
+     "Country_Name_English": "KAZAKHSTAN",
+     "Code_2_Digit": "KZ",
+     "Code_3_Digit": "KAZ"
+    },
+    {
+     "Code": 400,
+     "Country_Name_Arabic": "الأردن",
+     "Country_Name_English": "JORDAN",
+     "Code_2_Digit": "JO",
+     "Code_3_Digit": "JOR"
+    },
+    {
+     "Code": 404,
+     "Country_Name_Arabic": "كينيا",
+     "Country_Name_English": "KENYA",
+     "Code_2_Digit": "KE",
+     "Code_3_Digit": "KEN"
+    },
+    {
+     "Code": 408,
+     "Country_Name_Arabic": "جمهورية كوريا الديمقراطية الشعبية",
+     "Country_Name_English": "KOREA (THE DEMOCRATIC PEOPLE'S REPUBLIC OF)",
+     "Code_2_Digit": "KP",
+     "Code_3_Digit": "PRK"
+    },
+    {
+     "Code": 410,
+     "Country_Name_Arabic": "جمهورية كوريا",
+     "Country_Name_English": "KOREA (THE REPUBLIC OF)",
+     "Code_2_Digit": "KR",
+     "Code_3_Digit": "KOR"
+    },
+    {
+     "Code": 414,
+     "Country_Name_Arabic": "الكويت",
+     "Country_Name_English": "KUWAIT",
+     "Code_2_Digit": "KW",
+     "Code_3_Digit": "KWT"
+    },
+    {
+     "Code": 417,
+     "Country_Name_Arabic": "قيرغيزستان",
+     "Country_Name_English": "KYRGYZSTAN",
+     "Code_2_Digit": "KG",
+     "Code_3_Digit": "KGZ"
+    },
+    {
+     "Code": 418,
+     "Country_Name_Arabic": "جمهورية لاو الديمقراطية",
+     "Country_Name_English": "LAO PEOPLE'S DEMOCRATIC REPUBLIC (THE)",
+     "Code_2_Digit": "LA",
+     "Code_3_Digit": "LAO"
+    },
+    {
+     "Code": 422,
+     "Country_Name_Arabic": "لبنان",
+     "Country_Name_English": "LEBANON",
+     "Code_2_Digit": "LB",
+     "Code_3_Digit": "LBN"
+    },
+    {
+     "Code": 426,
+     "Country_Name_Arabic": "ليسوتو",
+     "Country_Name_English": "LESOTHO",
+     "Code_2_Digit": "LS",
+     "Code_3_Digit": "LSO"
+    },
+    {
+     "Code": 428,
+     "Country_Name_Arabic": "لاتفيا",
+     "Country_Name_English": "LATVIA",
+     "Code_2_Digit": "LV",
+     "Code_3_Digit": "LVA"
+    },
+    {
+     "Code": 430,
+     "Country_Name_Arabic": "ليبيريا",
+     "Country_Name_English": "LIBERIA",
+     "Code_2_Digit": "LR",
+     "Code_3_Digit": "LBR"
+    },
+    {
+     "Code": 434,
+     "Country_Name_Arabic": "ليبيا",
+     "Country_Name_English": "LIBYA",
+     "Code_2_Digit": "LY",
+     "Code_3_Digit": "LBY"
+    },
+    {
+     "Code": 438,
+     "Country_Name_Arabic": "ليختيستين",
+     "Country_Name_English": "LIECHTENSTEIN",
+     "Code_2_Digit": "LI",
+     "Code_3_Digit": "LIE"
+    },
+    {
+     "Code": 440,
+     "Country_Name_Arabic": "ليتوانيا",
+     "Country_Name_English": "LITHUANIA",
+     "Code_2_Digit": "LT",
+     "Code_3_Digit": "LTU"
+    },
+    {
+     "Code": 442,
+     "Country_Name_Arabic": "لوكسمبورغ",
+     "Country_Name_English": "LUXEMBOURG",
+     "Code_2_Digit": "LU",
+     "Code_3_Digit": "LUX"
+    },
+    {
+     "Code": 446,
+     "Country_Name_Arabic": "ماكاو",
+     "Country_Name_English": "MACAO",
+     "Code_2_Digit": "MO",
+     "Code_3_Digit": "MAC"
+    },
+    {
+     "Code": 450,
+     "Country_Name_Arabic": "مدغشقر",
+     "Country_Name_English": "MADAGASCAR",
+     "Code_2_Digit": "MG",
+     "Code_3_Digit": "MDG"
+    },
+    {
+     "Code": 454,
+     "Country_Name_Arabic": "مالاوي",
+     "Country_Name_English": "MALAWI",
+     "Code_2_Digit": "MW",
+     "Code_3_Digit": "MWI"
+    },
+    {
+     "Code": 458,
+     "Country_Name_Arabic": "ماليزيا",
+     "Country_Name_English": "MALAYSIA",
+     "Code_2_Digit": "MY",
+     "Code_3_Digit": "MYS"
+    },
+    {
+     "Code": 462,
+     "Country_Name_Arabic": "مالديف",
+     "Country_Name_English": "MALDIVES",
+     "Code_2_Digit": "MV",
+     "Code_3_Digit": "MDV"
+    },
+    {
+     "Code": 466,
+     "Country_Name_Arabic": "مالي",
+     "Country_Name_English": "MALI",
+     "Code_2_Digit": "ML",
+     "Code_3_Digit": "MLI"
+    },
+    {
+     "Code": 470,
+     "Country_Name_Arabic": "مالطا",
+     "Country_Name_English": "MALTA",
+     "Code_2_Digit": "MT",
+     "Code_3_Digit": "MLT"
+    },
+    {
+     "Code": 474,
+     "Country_Name_Arabic": "مارتينيك",
+     "Country_Name_English": "MARTINIQUE",
+     "Code_2_Digit": "MQ",
+     "Code_3_Digit": "MTQ"
+    },
+    {
+     "Code": 478,
+     "Country_Name_Arabic": "موريتانيا",
+     "Country_Name_English": "MAURITANIA",
+     "Code_2_Digit": "MR",
+     "Code_3_Digit": "MRT"
+    },
+    {
+     "Code": 480,
+     "Country_Name_Arabic": "موريشوس",
+     "Country_Name_English": "MAURITIUS",
+     "Code_2_Digit": "MU",
+     "Code_3_Digit": "MUS"
+    },
+    {
+     "Code": 484,
+     "Country_Name_Arabic": "المكسيك",
+     "Country_Name_English": "MEXICO",
+     "Code_2_Digit": "MX",
+     "Code_3_Digit": "MEX"
+    },
+    {
+     "Code": 492,
+     "Country_Name_Arabic": "موناكو",
+     "Country_Name_English": "MONACO",
+     "Code_2_Digit": "MC",
+     "Code_3_Digit": "MCO"
+    },
+    {
+     "Code": 496,
+     "Country_Name_Arabic": "منغوليا",
+     "Country_Name_English": "MONGOLIA",
+     "Code_2_Digit": "MN",
+     "Code_3_Digit": "MNG"
+    },
+    {
+     "Code": 498,
+     "Country_Name_Arabic": "مولدوفا",
+     "Country_Name_English": "MOLDOVA (THE REPUBLIC OF)",
+     "Code_2_Digit": "MD",
+     "Code_3_Digit": "MDA"
+    },
+    {
+     "Code": 499,
+     "Country_Name_Arabic": "الجبل الأسود",
+     "Country_Name_English": "MONTENEGRO",
+     "Code_2_Digit": "ME",
+     "Code_3_Digit": "MNE"
+    },
+    {
+     "Code": 500,
+     "Country_Name_Arabic": "مونتيسرات",
+     "Country_Name_English": "MONTSERRAT",
+     "Code_2_Digit": "MS",
+     "Code_3_Digit": "MSR"
+    },
+    {
+     "Code": 504,
+     "Country_Name_Arabic": "مراكش",
+     "Country_Name_English": "MOROCCO",
+     "Code_2_Digit": "MA",
+     "Code_3_Digit": "MAR"
+    },
+    {
+     "Code": 508,
+     "Country_Name_Arabic": "موزينبيق",
+     "Country_Name_English": "MOZAMBIQUE",
+     "Code_2_Digit": "MZ",
+     "Code_3_Digit": "MOZ"
+    },
+    {
+     "Code": 512,
+     "Country_Name_Arabic": "عمان",
+     "Country_Name_English": "OMAN",
+     "Code_2_Digit": "OM",
+     "Code_3_Digit": "OMN"
+    },
+    {
+     "Code": 516,
+     "Country_Name_Arabic": "ناميبيا",
+     "Country_Name_English": "NAMIBIA",
+     "Code_2_Digit": "NA",
+     "Code_3_Digit": "NAM"
+    },
+    {
+     "Code": 520,
+     "Country_Name_Arabic": "نايورو",
+     "Country_Name_English": "NAURU",
+     "Code_2_Digit": "NR",
+     "Code_3_Digit": "NRU"
+    },
+    {
+     "Code": 524,
+     "Country_Name_Arabic": "نيبال",
+     "Country_Name_English": "NEPAL",
+     "Code_2_Digit": "NP",
+     "Code_3_Digit": "NPL"
+    },
+    {
+     "Code": 528,
+     "Country_Name_Arabic": "نيذرلاند",
+     "Country_Name_English": "NETHERLANDS (KINGDOM OF THE)",
+     "Code_2_Digit": "NL",
+     "Code_3_Digit": "NLD"
+    },
+    {
+     "Code": 531,
+     "Country_Name_Arabic": "كوراساو",
+     "Country_Name_English": "CURAÇAO",
+     "Code_2_Digit": "CW",
+     "Code_3_Digit": "CUW"
+    },
+    {
+     "Code": 533,
+     "Country_Name_Arabic": "اروبا",
+     "Country_Name_English": "ARUBA",
+     "Code_2_Digit": "AW",
+     "Code_3_Digit": "ABW"
+    },
+    {
+     "Code": 534,
+     "Country_Name_Arabic": "سانت مارتن (الجزء الهولندي)",
+     "Country_Name_English": "SINT MAARTEN (DUTCH PART)",
+     "Code_2_Digit": "SX",
+     "Code_3_Digit": "SXM"
+    },
+    {
+     "Code": 535,
+     "Country_Name_Arabic": "بونير وسانت أوستاتيوس وسابا",
+     "Country_Name_English": "BONAIRE, SINT EUSTATIUS AND SABA",
+     "Code_2_Digit": "BQ",
+     "Code_3_Digit": "BES"
+    },
+    {
+     "Code": 540,
+     "Country_Name_Arabic": "كاليدونيا الجديدة",
+     "Country_Name_English": "NEW CALEDONIA",
+     "Code_2_Digit": "NC",
+     "Code_3_Digit": "NCL"
+    },
+    {
+     "Code": 548,
+     "Country_Name_Arabic": "فانوتا",
+     "Country_Name_English": "VANUATU",
+     "Code_2_Digit": "VU",
+     "Code_3_Digit": "VUT"
+    },
+    {
+     "Code": 554,
+     "Country_Name_Arabic": "نيوزيلاند",
+     "Country_Name_English": "NEW ZEALAND",
+     "Code_2_Digit": "NZ",
+     "Code_3_Digit": "NZL"
+    },
+    {
+     "Code": 558,
+     "Country_Name_Arabic": "نيكاراغوا",
+     "Country_Name_English": "NICARAGUA",
+     "Code_2_Digit": "NI",
+     "Code_3_Digit": "NIC"
+    },
+    {
+     "Code": 562,
+     "Country_Name_Arabic": "النيجر",
+     "Country_Name_English": "NIGER (THE)",
+     "Code_2_Digit": "NE",
+     "Code_3_Digit": "NER"
+    },
+    {
+     "Code": 566,
+     "Country_Name_Arabic": "نيجيريا",
+     "Country_Name_English": "NIGERIA",
+     "Code_2_Digit": "NG",
+     "Code_3_Digit": "NGA"
+    },
+    {
+     "Code": 570,
+     "Country_Name_Arabic": "نيوا",
+     "Country_Name_English": "NIUE",
+     "Code_2_Digit": "NU",
+     "Code_3_Digit": "NIU"
+    },
+    {
+     "Code": 574,
+     "Country_Name_Arabic": "جزيرة نورفلك",
+     "Country_Name_English": "NORFOLK ISLAND",
+     "Code_2_Digit": "NF",
+     "Code_3_Digit": "NFK"
+    },
+    {
+     "Code": 578,
+     "Country_Name_Arabic": "النرويج",
+     "Country_Name_English": "NORWAY",
+     "Code_2_Digit": "NO",
+     "Code_3_Digit": "NOR"
+    },
+    {
+     "Code": 580,
+     "Country_Name_Arabic": "جزر ماريانا الشمالية",
+     "Country_Name_English": "NORTHERN MARIANA ISLANDS (THE)",
+     "Code_2_Digit": "MP",
+     "Code_3_Digit": "MNP"
+    },
+    {
+     "Code": 581,
+     "Country_Name_Arabic": "الولايات المتحدة الجزر الممتدة",
+     "Country_Name_English": "UNITED STATES MINOR OUTLYING ISLANDS (THE)",
+     "Code_2_Digit": "UM",
+     "Code_3_Digit": "UMI"
+    },
+    {
+     "Code": 583,
+     "Country_Name_Arabic": "ميكرونيسيا",
+     "Country_Name_English": "MICRONESIA (FEDERATED STATES OF)",
+     "Code_2_Digit": "FM",
+     "Code_3_Digit": "FSM"
+    },
+    {
+     "Code": 584,
+     "Country_Name_Arabic": "جزر المارشال",
+     "Country_Name_English": "MARSHALL ISLANDS (THE)",
+     "Code_2_Digit": "MH",
+     "Code_3_Digit": "MHL"
+    },
+    {
+     "Code": 585,
+     "Country_Name_Arabic": "بالو",
+     "Country_Name_English": "PALAU",
+     "Code_2_Digit": "PW",
+     "Code_3_Digit": "PLW"
+    },
+    {
+     "Code": 586,
+     "Country_Name_Arabic": "باكستان",
+     "Country_Name_English": "PAKISTAN",
+     "Code_2_Digit": "PK",
+     "Code_3_Digit": "PAK"
+    },
+    {
+     "Code": 591,
+     "Country_Name_Arabic": "بنما",
+     "Country_Name_English": "PANAMA",
+     "Code_2_Digit": "PA",
+     "Code_3_Digit": "PAN"
+    },
+    {
+     "Code": 598,
+     "Country_Name_Arabic": "بابوا غينيا الجديدة",
+     "Country_Name_English": "PAPUA NEW GUINEA",
+     "Code_2_Digit": "PG",
+     "Code_3_Digit": "PNG"
+    },
+    {
+     "Code": 600,
+     "Country_Name_Arabic": "براغواي",
+     "Country_Name_English": "PARAGUAY",
+     "Code_2_Digit": "PY",
+     "Code_3_Digit": "PRY"
+    },
+    {
+     "Code": 604,
+     "Country_Name_Arabic": "بيرو",
+     "Country_Name_English": "PERU",
+     "Code_2_Digit": "PE",
+     "Code_3_Digit": "PER"
+    },
+    {
+     "Code": 608,
+     "Country_Name_Arabic": "الفلبين",
+     "Country_Name_English": "PHILIPPINES (THE)",
+     "Code_2_Digit": "PH",
+     "Code_3_Digit": "PHL"
+    },
+    {
+     "Code": 612,
+     "Country_Name_Arabic": "بياتكرين",
+     "Country_Name_English": "PITCAIRN",
+     "Code_2_Digit": "PN",
+     "Code_3_Digit": "PCN"
+    },
+    {
+     "Code": 616,
+     "Country_Name_Arabic": "بولندا",
+     "Country_Name_English": "POLAND",
+     "Code_2_Digit": "PL",
+     "Code_3_Digit": "POL"
+    },
+    {
+     "Code": 620,
+     "Country_Name_Arabic": "البرتغال",
+     "Country_Name_English": "PORTUGAL",
+     "Code_2_Digit": "PT",
+     "Code_3_Digit": "PRT"
+    },
+    {
+     "Code": 624,
+     "Country_Name_Arabic": "غينيا بيساو",
+     "Country_Name_English": "GUINEA-BISSAU",
+     "Code_2_Digit": "GW",
+     "Code_3_Digit": "GNB"
+    },
+    {
+     "Code": 626,
+     "Country_Name_Arabic": "ثيمور الشرقية",
+     "Country_Name_English": "TIMOR-LESTE",
+     "Code_2_Digit": "TL",
+     "Code_3_Digit": "TLS"
+    },
+    {
+     "Code": 630,
+     "Country_Name_Arabic": "بورتوريكو",
+     "Country_Name_English": "PUERTO RICO",
+     "Code_2_Digit": "PR",
+     "Code_3_Digit": "PRI"
+    },
+    {
+     "Code": 634,
+     "Country_Name_Arabic": "قطر",
+     "Country_Name_English": "QATAR",
+     "Code_2_Digit": "QA",
+     "Code_3_Digit": "QAT"
+    },
+    {
+     "Code": 638,
+     "Country_Name_Arabic": "رونيون",
+     "Country_Name_English": "RÉUNION",
+     "Code_2_Digit": "RE",
+     "Code_3_Digit": "REU"
+    },
+    {
+     "Code": 642,
+     "Country_Name_Arabic": "رومانيا",
+     "Country_Name_English": "ROMANIA",
+     "Code_2_Digit": "RO",
+     "Code_3_Digit": "ROU"
+    },
+    {
+     "Code": 643,
+     "Country_Name_Arabic": "روسيا",
+     "Country_Name_English": "RUSSIAN FEDERATION (THE)",
+     "Code_2_Digit": "RU",
+     "Code_3_Digit": "RUS"
+    },
+    {
+     "Code": 646,
+     "Country_Name_Arabic": "رواندا",
+     "Country_Name_English": "RWANDA",
+     "Code_2_Digit": "RW",
+     "Code_3_Digit": "RWA"
+    },
+    {
+     "Code": 652,
+     "Country_Name_Arabic": "سانت بارثولوميو",
+     "Country_Name_English": "SAINT BARTHÉLEMY",
+     "Code_2_Digit": "BL",
+     "Code_3_Digit": "BLM"
+    },
+    {
+     "Code": 654,
+     "Country_Name_Arabic": "سنت هلين",
+     "Country_Name_English": "SAINT HELENA, ASCENSION AND TRISTAN DA CUNHA",
+     "Code_2_Digit": "SH",
+     "Code_3_Digit": "SHN"
+    },
+    {
+     "Code": 659,
+     "Country_Name_Arabic": "سنت كيتس و نيفس",
+     "Country_Name_English": "SAINT KITTS AND NEVIS",
+     "Code_2_Digit": "KN",
+     "Code_3_Digit": "KNA"
+    },
+    {
+     "Code": 660,
+     "Country_Name_Arabic": "انجولا",
+     "Country_Name_English": "ANGUILLA",
+     "Code_2_Digit": "AI",
+     "Code_3_Digit": "AIA"
+    },
+    {
+     "Code": 662,
+     "Country_Name_Arabic": "سنت لوشيا",
+     "Country_Name_English": "SAINT LUCIA",
+     "Code_2_Digit": "LC",
+     "Code_3_Digit": "LCA"
+    },
+    {
+     "Code": 663,
+     "Country_Name_Arabic": "سانت مارتن (الجزء الفرنسي)",
+     "Country_Name_English": "SAINT MARTIN (FRENCH PART)",
+     "Code_2_Digit": "MF",
+     "Code_3_Digit": "MAF"
+    },
+    {
+     "Code": 666,
+     "Country_Name_Arabic": "سنت بيير و ميكايل",
+     "Country_Name_English": "SAINT PIERRE AND MIQUELON",
+     "Code_2_Digit": "PM",
+     "Code_3_Digit": "SPM"
+    },
+    {
+     "Code": 670,
+     "Country_Name_Arabic": "سنت فينسنت",
+     "Country_Name_English": "SAINT VINCENT AND THE GRENADINES",
+     "Code_2_Digit": "VC",
+     "Code_3_Digit": "VCT"
+    },
+    {
+     "Code": 674,
+     "Country_Name_Arabic": "سان مارينو",
+     "Country_Name_English": "SAN MARINO",
+     "Code_2_Digit": "SM",
+     "Code_3_Digit": "SMR"
+    },
+    {
+     "Code": 678,
+     "Country_Name_Arabic": "ساو توم",
+     "Country_Name_English": "SAO TOME AND PRINCIPE",
+     "Code_2_Digit": "ST",
+     "Code_3_Digit": "STP"
+    },
+    {
+     "Code": 682,
+     "Country_Name_Arabic": "السعودية ",
+     "Country_Name_English": "SAUDI ARABIA",
+     "Code_2_Digit": "SA",
+     "Code_3_Digit": "SAU"
+    },
+    {
+     "Code": 686,
+     "Country_Name_Arabic": "السنغال",
+     "Country_Name_English": "SENEGAL",
+     "Code_2_Digit": "SN",
+     "Code_3_Digit": "SEN"
+    },
+    {
+     "Code": 688,
+     "Country_Name_Arabic": "صربيا",
+     "Country_Name_English": "SERBIA",
+     "Code_2_Digit": "RS",
+     "Code_3_Digit": "SRB"
+    },
+    {
+     "Code": 690,
+     "Country_Name_Arabic": "سيشل",
+     "Country_Name_English": "SEYCHELLES",
+     "Code_2_Digit": "SC",
+     "Code_3_Digit": "SYC"
+    },
+    {
+     "Code": 694,
+     "Country_Name_Arabic": "سيراليون",
+     "Country_Name_English": "SIERRA LEONE",
+     "Code_2_Digit": "SL",
+     "Code_3_Digit": "SLE"
+    },
+    {
+     "Code": 702,
+     "Country_Name_Arabic": "سنغافورة",
+     "Country_Name_English": "SINGAPORE",
+     "Code_2_Digit": "SG",
+     "Code_3_Digit": "SGP"
+    },
+    {
+     "Code": 703,
+     "Country_Name_Arabic": "سلوفاكيا",
+     "Country_Name_English": "SLOVAKIA",
+     "Code_2_Digit": "SK",
+     "Code_3_Digit": "SVK"
+    },
+    {
+     "Code": 704,
+     "Country_Name_Arabic": "فيتنام",
+     "Country_Name_English": "VIET NAM",
+     "Code_2_Digit": "VN",
+     "Code_3_Digit": "VNM"
+    },
+    {
+     "Code": 705,
+     "Country_Name_Arabic": "سلوفينيا",
+     "Country_Name_English": "SLOVENIA",
+     "Code_2_Digit": "SI",
+     "Code_3_Digit": "SVN"
+    },
+    {
+     "Code": 706,
+     "Country_Name_Arabic": "الصومال",
+     "Country_Name_English": "SOMALIA",
+     "Code_2_Digit": "SO",
+     "Code_3_Digit": "SOM"
+    },
+    {
+     "Code": 710,
+     "Country_Name_Arabic": "جنوب افريقيا",
+     "Country_Name_English": "SOUTH AFRICA",
+     "Code_2_Digit": "ZA",
+     "Code_3_Digit": "ZAF"
+    },
+    {
+     "Code": 716,
+     "Country_Name_Arabic": "زيمبابوي",
+     "Country_Name_English": "ZIMBABWE",
+     "Code_2_Digit": "ZW",
+     "Code_3_Digit": "ZWE"
+    },
+    {
+     "Code": 724,
+     "Country_Name_Arabic": "اسبانيا",
+     "Country_Name_English": "SPAIN",
+     "Code_2_Digit": "ES",
+     "Code_3_Digit": "ESP"
+    },
+    {
+     "Code": 728,
+     "Country_Name_Arabic": "جنوب السودان",
+     "Country_Name_English": "SOUTH SUDAN",
+     "Code_2_Digit": "SS",
+     "Code_3_Digit": "SSD"
+    },
+    {
+     "Code": 729,
+     "Country_Name_Arabic": "السودان",
+     "Country_Name_English": "SUDAN (THE)",
+     "Code_2_Digit": "SD",
+     "Code_3_Digit": "SDN"
+    },
+    {
+     "Code": 732,
+     "Country_Name_Arabic": "الصحراء الغربية",
+     "Country_Name_English": "WESTERN SAHARA*",
+     "Code_2_Digit": "EH",
+     "Code_3_Digit": "ESH"
+    },
+    {
+     "Code": 740,
+     "Country_Name_Arabic": "سورينيم",
+     "Country_Name_English": "SURINAME",
+     "Code_2_Digit": "SR",
+     "Code_3_Digit": "SUR"
+    },
+    {
+     "Code": 744,
+     "Country_Name_Arabic": "جزر سفالبا وجزر جان ماين",
+     "Country_Name_English": "SVALBARD AND JAN MAYEN",
+     "Code_2_Digit": "SJ",
+     "Code_3_Digit": "SJM"
+    },
+    {
+     "Code": 748,
+     "Country_Name_Arabic": "إستونيا",
+     "Country_Name_English": "ESWATINI",
+     "Code_2_Digit": "SZ",
+     "Code_3_Digit": "SWZ"
+    },
+    {
+     "Code": 752,
+     "Country_Name_Arabic": "السويد",
+     "Country_Name_English": "SWEDEN",
+     "Code_2_Digit": "SE",
+     "Code_3_Digit": "SWE"
+    },
+    {
+     "Code": 756,
+     "Country_Name_Arabic": "سويسرا",
+     "Country_Name_English": "SWITZERLAND",
+     "Code_2_Digit": "CH",
+     "Code_3_Digit": "CHE"
+    },
+    {
+     "Code": 760,
+     "Country_Name_Arabic": "الجمهورية العربية السورية",
+     "Country_Name_English": "SYRIAN ARAB REPUBLIC (THE)",
+     "Code_2_Digit": "SY",
+     "Code_3_Digit": "SYR"
+    },
+    {
+     "Code": 762,
+     "Country_Name_Arabic": "طاجيكستان",
+     "Country_Name_English": "TAJIKISTAN",
+     "Code_2_Digit": "TJ",
+     "Code_3_Digit": "TJK"
+    },
+    {
+     "Code": 764,
+     "Country_Name_Arabic": "تايلاند",
+     "Country_Name_English": "THAILAND",
+     "Code_2_Digit": "TH",
+     "Code_3_Digit": "THA"
+    },
+    {
+     "Code": 768,
+     "Country_Name_Arabic": "توجو",
+     "Country_Name_English": "TOGO",
+     "Code_2_Digit": "TG",
+     "Code_3_Digit": "TGO"
+    },
+    {
+     "Code": 772,
+     "Country_Name_Arabic": "توكيلاو",
+     "Country_Name_English": "TOKELAU",
+     "Code_2_Digit": "TK",
+     "Code_3_Digit": "TKL"
+    },
+    {
+     "Code": 776,
+     "Country_Name_Arabic": "تونجا",
+     "Country_Name_English": "TONGA",
+     "Code_2_Digit": "TO",
+     "Code_3_Digit": "TON"
+    },
+    {
+     "Code": 780,
+     "Country_Name_Arabic": "ترينيداد و توباجو",
+     "Country_Name_English": "TRINIDAD AND TOBAGO",
+     "Code_2_Digit": "TT",
+     "Code_3_Digit": "TTO"
+    },
+    {
+     "Code": 784,
+     "Country_Name_Arabic": "الامارات العربية المتحدة",
+     "Country_Name_English": "UNITED ARAB EMIRATES (THE)",
+     "Code_2_Digit": "AE",
+     "Code_3_Digit": "ARE"
+    },
+    {
+     "Code": 788,
+     "Country_Name_Arabic": "تونس",
+     "Country_Name_English": "TUNISIA",
+     "Code_2_Digit": "TN",
+     "Code_3_Digit": "TUN"
+    },
+    {
+     "Code": 792,
+     "Country_Name_Arabic": "تركيا",
+     "Country_Name_English": "TÜRKIYE",
+     "Code_2_Digit": "TR",
+     "Code_3_Digit": "TUR"
+    },
+    {
+     "Code": 795,
+     "Country_Name_Arabic": "تركمانستان",
+     "Country_Name_English": "TURKMENISTAN",
+     "Code_2_Digit": "TM",
+     "Code_3_Digit": "TKM"
+    },
+    {
+     "Code": 796,
+     "Country_Name_Arabic": "جزر الترك و الكاكوس",
+     "Country_Name_English": "TURKS AND CAICOS ISLANDS (THE)",
+     "Code_2_Digit": "TC",
+     "Code_3_Digit": "TCA"
+    },
+    {
+     "Code": 798,
+     "Country_Name_Arabic": "توفالو",
+     "Country_Name_English": "TUVALU",
+     "Code_2_Digit": "TV",
+     "Code_3_Digit": "TUV"
+    },
+    {
+     "Code": 800,
+     "Country_Name_Arabic": "اوغندا",
+     "Country_Name_English": "UGANDA",
+     "Code_2_Digit": "UG",
+     "Code_3_Digit": "UGA"
+    },
+    {
+     "Code": 804,
+     "Country_Name_Arabic": "اوكرانيا",
+     "Country_Name_English": "UKRAINE",
+     "Code_2_Digit": "UA",
+     "Code_3_Digit": "UKR"
+    },
+    {
+     "Code": 807,
+     "Country_Name_Arabic": "مقدونيا الشمالية",
+     "Country_Name_English": "NORTH MACEDONIA",
+     "Code_2_Digit": "MK",
+     "Code_3_Digit": "MKD"
+    },
+    {
+     "Code": 818,
+     "Country_Name_Arabic": "مصر",
+     "Country_Name_English": "EGYPT",
+     "Code_2_Digit": "EG",
+     "Code_3_Digit": "EGY"
+    },
+    {
+     "Code": 826,
+     "Country_Name_Arabic": "المملكة المتحدة",
+     "Country_Name_English": "UNITED KINGDOM OF GREAT BRITAIN AND NORTHERN IRELAND (THE)",
+     "Code_2_Digit": "GB",
+     "Code_3_Digit": "GBR"
+    },
+    {
+     "Code": 831,
+     "Country_Name_Arabic": "جيرنزي",
+     "Country_Name_English": "GUERNSEY",
+     "Code_2_Digit": "GG",
+     "Code_3_Digit": "GGY"
+    },
+    {
+     "Code": 832,
+     "Country_Name_Arabic": "جيرزي",
+     "Country_Name_English": "JERSEY",
+     "Code_2_Digit": "JE",
+     "Code_3_Digit": "JEY"
+    },
+    {
+     "Code": 833,
+     "Country_Name_Arabic": "جزيرة مان",
+     "Country_Name_English": "ISLE OF MAN",
+     "Code_2_Digit": "IM",
+     "Code_3_Digit": "IMN"
+    },
+    {
+     "Code": 834,
+     "Country_Name_Arabic": "جمهورية تنزانيا المتحدة",
+     "Country_Name_English": "TANZANIA, THE UNITED REPUBLIC OF",
+     "Code_2_Digit": "TZ",
+     "Code_3_Digit": "TZA"
+    },
+    {
+     "Code": 840,
+     "Country_Name_Arabic": "الولايات المتحدة",
+     "Country_Name_English": "UNITED STATES OF AMERICA (THE)",
+     "Code_2_Digit": "US",
+     "Code_3_Digit": "USA"
+    },
+    {
+     "Code": 850,
+     "Country_Name_Arabic": "جزر العذراء",
+     "Country_Name_English": "VIRGIN ISLANDS (U.S.)",
+     "Code_2_Digit": "VI",
+     "Code_3_Digit": "VIR"
+    },
+    {
+     "Code": 854,
+     "Country_Name_Arabic": "بوركينا فاسو",
+     "Country_Name_English": "BURKINA FASO",
+     "Code_2_Digit": "BF",
+     "Code_3_Digit": "BFA"
+    },
+    {
+     "Code": 858,
+     "Country_Name_Arabic": "اوروغواي",
+     "Country_Name_English": "URUGUAY",
+     "Code_2_Digit": "UY",
+     "Code_3_Digit": "URY"
+    },
+    {
+     "Code": 860,
+     "Country_Name_Arabic": "أوزبكستان",
+     "Country_Name_English": "UZBEKISTAN",
+     "Code_2_Digit": "UZ",
+     "Code_3_Digit": "UZB"
+    },
+    {
+     "Code": 862,
+     "Country_Name_Arabic": "فنزويلا",
+     "Country_Name_English": "VENEZUELA (BOLIVARIAN REPUBLIC OF)",
+     "Code_2_Digit": "VE",
+     "Code_3_Digit": "VEN"
+    },
+    {
+     "Code": 876,
+     "Country_Name_Arabic": "جزر ويلز وفوتونا",
+     "Country_Name_English": "WALLIS AND FUTUNA",
+     "Code_2_Digit": "WF",
+     "Code_3_Digit": "WLF"
+    },
+    {
+     "Code": 882,
+     "Country_Name_Arabic": "ساموا",
+     "Country_Name_English": "SAMOA",
+     "Code_2_Digit": "WS",
+     "Code_3_Digit": "WSM"
+    },
+    {
+     "Code": 887,
+     "Country_Name_Arabic": "اليمن",
+     "Country_Name_English": "YEMEN",
+     "Code_2_Digit": "YE",
+     "Code_3_Digit": "YEM"
+    },
+    {
+     "Code": 894,
+     "Country_Name_Arabic": "زامبيا",
+     "Country_Name_English": "ZAMBIA",
+     "Code_2_Digit": "ZM",
+     "Code_3_Digit": "ZMB"
+    }
+   ]
